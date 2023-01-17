@@ -1,4 +1,4 @@
-package Seminar1.FamilyTree;
+package FamilyTree;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -75,7 +75,7 @@ public class Main {
                     } while (!Input.isValidOption(inputOption));
                     for (Persona itemPersona : family) {
                         String name = itemPersona.name;
-                        if (name.toLowerCase() == rootName.toLowerCase()) {
+                        if (name.equalsIgnoreCase(rootName)) {
                             root = itemPersona;
                         }
 

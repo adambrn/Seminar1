@@ -1,4 +1,4 @@
-package Seminar1.FamilyTree;
+package FamilyTree;
 
 public enum Gender {
     FEMALE,

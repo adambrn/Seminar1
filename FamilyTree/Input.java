@@ -1,4 +1,4 @@
-package Seminar1.FamilyTree;
+package FamilyTree;
 
 public class Input {
     public static boolean isValidOption(int input) {

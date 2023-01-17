@@ -1,4 +1,4 @@
-package Seminar1.FamilyTree;
+package FamilyTree;
 
 import java.util.ArrayList;
 import java.util.List;

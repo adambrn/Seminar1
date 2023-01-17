@@ -1,4 +1,4 @@
-package Seminar1.FamilyTree;
+package FamilyTree;
 
 public class ViewTree {
     public static void view(Persona p, int num) {
